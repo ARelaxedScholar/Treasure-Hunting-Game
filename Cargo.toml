@@ -1,0 +1,9 @@
+[package]
+name = "treasure_hunting_game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+glfw = "0.59.0"
+tokio = { version = "1.43.0", features = ["full"] }
+wgpu = "24.0.1"
