@@ -915,6 +915,7 @@ dependencies = [
 name = "treasure_hunting_game"
 version = "0.1.0"
 dependencies = [
+ "bytemuck",
  "glfw",
  "tokio",
  "wgpu",
